@@ -1,0 +1,18 @@
+# Stock Price Prediction Project Dependencies
+
+# Core libraries
+numpy
+pandas
+tensorflow
+matplotlib
+
+# Data collection
+yfinance
+requests
+beautifulsoup4
+
+# Natural Language Processing
+textblob
+
+# Machine Learning
+scikit-learn 
